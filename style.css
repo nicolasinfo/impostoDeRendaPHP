@@ -1,0 +1,58 @@
+body{
+  background-color: lightblue;
+}
+
+input{
+  width:100%;
+  font-size: 20px;
+}
+
+#nome{
+  text-align: center;
+}
+
+#salariobruto{
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+}
+
+.nomesalario{
+  width: 100%;
+  max-width: 600px;
+  border: 1.5px solid black;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+.inf{
+  height: 40px;
+}
+
+#title{
+  text-align: center;
+  font-family: Arial;
+}
+
+#dados{
+  font-family: Arial;
+  text-align: center;
+  font-size: 1.55vw;
+  border: 1px solid black;
+  border-radius: 7px;
+  background-color: white;
+
+}
+
+#info{
+  font-family: Arial;
+  width: 100%;
+  text-align: center;
+  margin-top: 25px;
+  border: 2px solid black;
+  border-radius: 7px;
+  background-color: white;
+}
